@@ -1,0 +1,3 @@
+1. Extract the compressed file and navigate to the project directory using cammand  line (Terminal or Command Prompt).
+2. Install the dependencies using the cammand "npm install".
+3. After all the dependencies are downloaded run the development server by using cammad "npm start", it will open the react app in browser and you can access it by navigating to http://localhost:3000 in the browser. Explore the app.
